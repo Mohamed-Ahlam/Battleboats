@@ -1,12 +1,7 @@
 Ahlam Mohamed Moha0769
 
-I created and compiled my program using IntelliJ
+Battleboats is a probability-based board game that challenges the user to locate enemy boats hidden
+on a rectangular grid. The purpose of the game is to locate and destroy every enemy Boat in the
+least number of guesses. 
 
-I used this website to generate random:
-https://www.educative.io/edpresso/how-to-generate-random-numbers-in-java
-
-”I certify that the information contained in this README file is complete and accurate.
-I have both read and followed the course policies in the ’Academic Integrity - Course Policy’ section of the course syllabus.”
-
-
-AHLAM MOHAMED
+I modeled this game in Java. I created and compiled my program using IntelliJ
